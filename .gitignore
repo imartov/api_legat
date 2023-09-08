@@ -1,0 +1,8 @@
+# venv
+/api_legat_venv
+api_legat_venv/
+
+#env
+.env
+/.env
+*.env
